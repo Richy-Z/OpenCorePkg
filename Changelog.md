@@ -1,5 +1,10 @@
 OpenCore Changelog
 ==================
+#### v0.6.8
+- Increased OpenCanopy rendering performance
+- Reduced OpenCanopy mouse pointer input lag
+- Fixed that cursor bounds could be different from OpenCanopy's
+
 #### v0.6.7
 - Fixed ocvalidate return code to be non-zero when issues are found
 - Added `OEM` values to `PlatformInfo` in `Automatic` mode
