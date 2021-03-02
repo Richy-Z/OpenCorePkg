@@ -1,5 +1,8 @@
 OpenCore Changelog
 ==================
+#### v0.6.8
+- Properly support setting custom entries as default boot options
+
 #### v0.6.7
 - Fixed ocvalidate return code to be non-zero when issues are found
 - Added `OEM` values to `PlatformInfo` in `Automatic` mode
